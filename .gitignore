@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+*.pyc
+__pycache__/
+.venv/
+venv/
+*.log
+*.json
+*.mp4
+data/
