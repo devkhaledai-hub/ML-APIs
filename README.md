@@ -1,5 +1,7 @@
 # Cloud Vision Streamlit Labeler
 
+Demo: https://engkhaledmohamed55.atlassian.net/wiki/external/MmQ2NWNlZWFiZGU4NGNhYTg0NTc2NGQyNWQ2Y2QwZGE#Streamlit-Demo-Integration-with-Google-Cloud-Vision-API
+
 A simple Streamlit app for working with Google Cloud Storage and Google Cloud
 Vision.
 
